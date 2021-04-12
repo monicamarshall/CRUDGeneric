@@ -1,0 +1,47 @@
+2021-04-12 10:51:35,409 crudgenerics.views DEBUG    {}
+2021-04-12 10:51:35,428 crudgenerics.views DEBUG    {}
+2021-04-12 10:51:35,442 crudgenerics.views DEBUG    {}
+2021-04-12 10:53:29,806 crudgenerics.views DEBUG    {}
+2021-04-12 10:53:32,171 crudgenerics.views DEBUG    {}
+2021-04-12 10:53:36,138 crudgenerics.views DEBUG    {}
+2021-04-12 10:53:38,490 crudgenerics.views DEBUG    {}
+2021-04-12 10:54:14,703 crudgenerics.views DEBUG    {}
+2021-04-12 10:54:17,099 crudgenerics.views DEBUG    {}
+2021-04-12 10:54:28,757 crudgenerics.views DEBUG    {}
+2021-04-12 10:54:31,217 crudgenerics.views DEBUG    {}
+2021-04-12 10:55:14,453 crudgenerics.views DEBUG    {}
+2021-04-12 10:55:16,891 crudgenerics.views DEBUG    {}
+2021-04-12 10:55:40,931 crudgenerics.views DEBUG    {}
+2021-04-12 10:55:43,379 crudgenerics.views DEBUG    {}
+2021-04-12 12:07:03,911 crudgenerics.views DEBUG    {}
+2021-04-12 12:07:06,327 crudgenerics.views DEBUG    {}
+2021-04-12 12:07:45,536 crudgenerics.views DEBUG    {}
+2021-04-12 12:07:48,142 crudgenerics.views DEBUG    {}
+2021-04-12 12:08:46,426 crudgenerics.views DEBUG    {}
+2021-04-12 12:08:48,841 crudgenerics.views DEBUG    {}
+2021-04-12 13:23:31,248 crudgenerics.views DEBUG    In SpeakerDisplayCreate
+2021-04-12 13:23:31,249 crudgenerics.views DEBUG    View/Update/Delete speaker
+2021-04-12 13:23:34,318 django.request WARNING  Not Found: /conference/
+2021-04-12 13:23:49,911 django.request WARNING  Not Found: /conference/bulkload
+2021-04-12 13:23:54,265 django.request WARNING  Not Found: /conference/bulkload
+2021-04-12 13:24:04,133 crudgenerics.views DEBUG    {}
+2021-04-12 13:24:04,147 crudgenerics.views DEBUG    {}
+2021-04-12 13:24:04,156 crudgenerics.views DEBUG    {}
+2021-04-12 13:24:11,346 django.request WARNING  Not Found: /conference/speakers/bulkload
+2021-04-12 13:24:48,949 django.request WARNING  Not Found: /conference/speakers/
+2021-04-12 13:24:51,676 django.request WARNING  Not Found: /conference/speakers/
+2021-04-12 13:24:57,245 crudgenerics.views DEBUG    {}
+2021-04-12 13:24:57,254 crudgenerics.views DEBUG    {}
+2021-04-12 13:24:57,261 crudgenerics.views DEBUG    {}
+2021-04-12 13:25:05,390 django.request WARNING  Not Found: /conference/speakers/copy_from
+2021-04-12 13:25:24,366 django.request WARNING  Not Found: /conference/bulkload
+2021-04-12 13:25:29,192 django.request WARNING  Not Found: /conference/bulkload/
+2021-04-12 13:25:32,380 django.request WARNING  Not Found: /conference/bulkload/
+2021-04-12 13:26:14,442 django.request WARNING  Not Found: /bulkload/bulk_create
+2021-04-12 13:26:17,092 django.request WARNING  Not Found: /bulkload/bulk_create
+2021-04-12 13:26:23,781 django.request WARNING  Not Found: /bulkload/
+2021-04-12 13:26:28,958 bulkload.views DEBUG    In Postgres copy_from
+2021-04-12 13:26:29,059 bulkload.views DEBUG    duration in seconds: 0.09509682655334473
+2021-04-12 13:26:29,059 bulkload.views DEBUG    Created 40500 rows in 95.09682655334473 milliseconds
+2021-04-12 14:05:13,569 crudgenerics.views DEBUG    In SpeakerDisplayCreate
+2021-04-12 14:05:13,570 crudgenerics.views DEBUG    View/Update/Delete speaker
